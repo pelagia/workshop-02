@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^5.9.4",
+    "re-base": "^4.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-player": "^1.11.0",
+    "react-progress-button": "^5.1.0",
     "react-scripts": "2.1.8",
     "styled-components": "^4.2.0"
   },
